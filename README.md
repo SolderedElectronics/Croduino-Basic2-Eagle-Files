@@ -2,7 +2,7 @@
 ## Image
 ![Croduino Basic2 image]
 (https://e-radionica.com/wp/hrvatski/wp-content/uploads/sites/3/2015/10/basic2.jpg)
-[Croduino Basic2(100025)] (http://e-radionica.com/en/croduino-basic2.html)
+[Croduino Basic2(100025)] (https://e-radionica.com/en/croduino-basic2.html)
 
 ## Description and details
 Croduino Basic2 is 100% Arduino compatible board made in EU(Croatia), created to promote Arduino culture in Croatia(well, it's named CROduino). Install Arduino software, plug it into USB and start DIY-ing!
@@ -28,7 +28,7 @@ Files have been arranged into folders for navigating between different versions 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts layers are not used.
 
 ## Docs
-- [Croduino Basic product page] (http://e-radionica.com/en/croduino-basic2.html)
+- [Croduino Basic product page] (https://e-radionica.com/en/croduino-basic2.html)
 - [Croduino lessons - on croatian language] (https://vimeo.com/channels/croduino)
 
 ## Board versions
